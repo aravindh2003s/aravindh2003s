@@ -47,6 +47,6 @@ Backend API Architecture
 Improving Data Structures and Problem Solving
 Contact
 
-Email: aravindh2003@gmail.com
+Email: aravindh2003s@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/aravindhan-s-37254b2a2
