@@ -1,52 +1,32 @@
-Aravindhan S
+# Hi there, I'm Aravindhan 👋
 
-Full-Stack Software Developer | React • FastAPI • TypeScript • Automation Testing
+### Frontend Developer passionate about building web apps and automation.
 
-Computer Science graduate with practical experience in designing and building full-stack web applications, REST APIs, and automation frameworks. Experienced in integrating automated testing into CI/CD pipelines and delivering scalable, maintainable software solutions. Actively seeking opportunities as a Software Developer or Web Developer.
+I'm a self-taught developer who loves creating beautiful web applications and ensuring they work flawlessly through automation testing. I'm constantly learning and expanding my skill set.
 
-Professional Summary
-Experience developing end-to-end web applications using modern frontend and backend technologies
-Strong understanding of REST API design, authentication, and database integration
-Hands-on experience in automation testing using Playwright, Selenium, and Cucumber
-Passionate about writing clean, maintainable, and efficient code
-Strong foundation in Data Structures and Algorithms
-Technical Stack
+## 🛠️ Tech Stack & Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Testing & Automation:** Playwright, Cucumber (BDD)
+- **Tools:** Git, GitHub
 
-Programming Languages
-Java • JavaScript • TypeScript • SQL
+## 🚀 Featured Projects
 
-Frontend Development
-React • HTML5 • CSS3 • Responsive Design
+*   **[Playwright-Automation-Script](https://github.com/aravindh2003s/Playwright-Automation-Script)**
+    *   A robust automation framework built with Playwright and Cucumber BDD, implementing the Page Object Model (POM) to test web applications efficiently.
+*   **[Project-Manager](https://github.com/aravindh2003s/Project-Manager)**
+    *   A web-based project management tool.
+*   **[My-App-Expenses](https://github.com/aravindh2003s/My-App-Expenses)**
+    *   An expense tracker application.
+*   **[Employee-Management-System-Project](https://github.com/aravindh2003s/Employee-Management-System-Project)**
+    *   A system for managing employee records.
 
-Backend Development
-FastAPI • REST API Design • Authentication & Authorization
+## 📈 GitHub Stats
+![Aravindhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=radical)
 
-Database
-MySQL
+## 📫 Let's Connect!
+- **Portfolio:** [Link to your portfolio here]
+- **LinkedIn:** [Link to your LinkedIn here]
+- **Twitter:** [Link to your Twitter here]
 
-Automation & DevOps
-Playwright • Selenium WebDriver • Cucumber BDD • CI/CD Pipelines • Git
-
-Key Projects
-
-Employee Management System
-Full-stack application to manage employee data, departments, salary, and attendance. Includes admin dashboard, REST APIs, and database integration.
-
-E-Commerce Web Application
-Custom T-shirt ordering platform with product browsing, customization workflow, cart management, and order processing.
-
-Portfolio Web Application with Authentication
-Secure personal portfolio with login functionality, project management, and email contact integration.
-
-AI-Based Indoor Positioning System
-Machine learning and IoT-based solution for indoor object tracking and navigation accuracy improvement.
-
-Current Focus
-Advanced Full-Stack Development
-Backend API Architecture
-Improving Data Structures and Problem Solving
-Contact
-
-Email: aravindh2003s@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/aravindhan-s-37254b2a2
+---
+⭐️ From [aravindh2003s](https://github.com/aravindh2003s)
