@@ -1,31 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
-  <!-- Background -->
-  <rect width="800" height="200" fill="#ffffff" rx="10" />
-  
-  <!-- Decorative Circles -->
-  <circle cx="50" cy="50" r="150" fill="#0969da" opacity="0.05" />
-  <circle cx="750" cy="150" r="100" fill="#0969da" opacity="0.08" />
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
+  <defs>
+    <!-- Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Fira+Code:wght@500&amp;display=swap');
+      .title { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 44px; fill: #0f172a; letter-spacing: 3px; }
+      .subtitle { font-family: 'Outfit', sans-serif; font-weight: 600; font-size: 16px; fill: #2563eb; letter-spacing: 1.5px; }
+      .tech { font-family: 'Fira Code', monospace; font-size: 14px; fill: #475569; letter-spacing: 1px; }
+      .quote { font-family: 'Outfit', sans-serif; font-weight: 400; font-size: 15px; fill: #64748b; font-style: italic; }
+    </style>
+    
+    <!-- Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
 
-  <!-- Subtle code texture / grid -->
-  <g opacity="0.1" stroke="#0969da" stroke-width="1">
-    <path d="M 0 20 L 800 20 M 0 40 L 800 40 M 0 60 L 800 60 M 0 80 L 800 80 M 0 100 L 800 100 M 0 120 L 800 120 M 0 140 L 800 140 M 0 160 L 800 160 M 0 180 L 800 180" />
-    <path d="M 20 0 L 20 200 M 40 0 L 40 200 M 60 0 L 60 200 M 80 0 L 80 200 M 100 0 L 100 200 M 120 0 L 120 200 M 140 0 L 140 200 M 160 0 L 160 200 M 180 0 L 180 200 M 200 0 L 200 200" />
+    <!-- Blur Filter for Orbs -->
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="240" fill="url(#bg-grad)" rx="16" />
+
+  <!-- Glowing Orbs -->
+  <circle cx="100" cy="50" r="100" fill="#60a5fa" opacity="0.15" filter="url(#blur)" />
+  <circle cx="700" cy="200" r="120" fill="#a78bfa" opacity="0.15" filter="url(#blur)" />
+  <circle cx="400" cy="120" r="150" fill="#38bdf8" opacity="0.1" filter="url(#blur)" />
+
+  <!-- Grid Pattern overlay -->
+  <g opacity="0.05" stroke="#334155" stroke-width="1">
+    <path d="M 0 30 L 800 30 M 0 60 L 800 60 M 0 90 L 800 90 M 0 120 L 800 120 M 0 150 L 800 150 M 0 180 L 800 180 M 0 210 L 800 210" />
+    <path d="M 50 0 L 50 240 M 100 0 L 100 240 M 150 0 L 150 240 M 200 0 L 200 240 M 250 0 L 250 240 M 300 0 L 300 240 M 350 0 L 350 240 M 400 0 L 400 240 M 450 0 L 450 240 M 500 0 L 500 240 M 550 0 L 550 240 M 600 0 L 600 240 M 650 0 L 650 240 M 700 0 L 700 240 M 750 0 L 750 240" />
   </g>
 
-  <!-- Accent lines -->
-  <rect x="0" y="0" width="800" height="4" fill="#0969da" />
-  <rect x="0" y="196" width="800" height="4" fill="#0969da" />
+  <!-- Accent Lines -->
+  <rect x="0" y="0" width="800" height="3" fill="url(#glow-line)" />
+  <rect x="0" y="237" width="800" height="3" fill="url(#glow-line)" />
 
   <!-- Borders -->
-  <rect x="20" y="20" width="760" height="160" fill="none" stroke="#0969da" stroke-width="2" stroke-dasharray="10 5" opacity="0.5" rx="5" />
+  <rect x="15" y="15" width="770" height="210" fill="none" stroke="rgba(59,130,246,0.3)" stroke-width="1.5" stroke-dasharray="8 6" rx="10" />
 
-  <!-- Content -->
-  <text x="400" y="70" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#24292f" text-anchor="middle" letter-spacing="4">ARAVINDHAN S</text>
-  
-  <rect x="150" y="85" width="500" height="28" fill="#f6f8fa" rx="14" stroke="#0969da" stroke-width="1" opacity="0.8"/>
-  <text x="400" y="105" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#0969da" text-anchor="middle" letter-spacing="1">JAVA FULL STACK DEVELOPER | AUTOMATION TEST ENGINEER</text>
-  
-  <text x="400" y="140" font-family="monospace" font-size="14" fill="#57606a" text-anchor="middle" letter-spacing="1">JAVA • SPRING • SELENIUM • TOSCA • MYSQL</text>
-  
-  <text x="400" y="165" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#57606a" text-anchor="middle">Architecting Scalable Solutions &amp; Ensuring Software Reliability</text>
+  <!-- Text Content -->
+  <g transform="translate(400, 85)">
+    <text x="0" y="0" class="title" text-anchor="middle">ARAVINDHAN S</text>
+    
+    <!-- Pill Background for Subtitle -->
+    <rect x="-260" y="18" width="520" height="34" fill="#ffffff" stroke="#93c5fd" stroke-width="1.5" rx="17" />
+    <text x="0" y="41" class="subtitle" text-anchor="middle">QA AUTOMATION ENGINEER | JAVA FULL STACK</text>
+    
+    <text x="0" y="82" class="tech" text-anchor="middle">PLAYWRIGHT • SELENIUM • TOSCA • JAVA • CI/CD</text>
+    
+    <text x="0" y="115" class="quote" text-anchor="middle">"Architecting Scalable Solutions &amp; Ensuring Software Reliability"</text>
+  </g>
 </svg>
