@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" alt="Aravindhan S Banner" width="100%">
-</picture>
+<!-- Banner (Supports GitHub Dark/Light Mode) -->
+<img src="assets/banner-light.svg#gh-light-mode-only" alt="Aravindhan S Banner" width="100%">
+<img src="assets/banner-dark.svg#gh-dark-mode-only" alt="Aravindhan S Banner" width="100%">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Automation+Test+Engineer;Building+Reliable+Enterprise+Software;Passionate+about+Quality+Engineering" alt="Typing SVG" />
+<a href="https://github.com/aravindh2003s">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer%3BAutomation+Test+Engineer%3BBuilding+Reliable+Enterprise+Software%3BPassionate+about+Quality+Engineering" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="#about-me">About Me</a> •
+  <a href="#experience">Experience</a> •
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#stats">Stats & Activity</a> •
@@ -30,12 +30,30 @@
         <p>I am a <strong>Java Full Stack Developer</strong> and <strong>Automation Test Engineer</strong> currently working at Larsen & Toubro. I specialize in building robust enterprise applications and architecting scalable automation frameworks that ensure software reliability.</p>
         <p>My dual expertise in development and quality engineering allows me to approach problems holistically—writing clean, maintainable code while anticipating potential edge cases.</p>
         <p><strong>🌱 Currently Exploring:</strong> Advanced CI/CD pipelines, Docker, and Playwright.</p>
+        <p><strong>💡 Philosophy:</strong> Every successful release begins with reliable testing and continuous improvement.</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh2003s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh2003s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Languages" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
+</div>
+
+<div id="experience">
+  <h2>💼 Professional Experience</h2>
+  
+  <blockquote>
+    <strong>Automation Test Engineer</strong> @ <em>Larsen & Toubro</em> <br/>
+    <p>🔹 Architecting scalable automation solutions using Java, Selenium, and Tosca.<br/>
+    🔹 Implementing CI/CD pipelines to ensure continuous integration and rapid delivery.<br/>
+    🔹 Developing custom frameworks that reduce manual testing effort by over 70%.</p>
+  </blockquote>
+  
+  <blockquote>
+    <strong>Intern</strong> @ <em>Larsen & Toubro</em> (2025)<br/>
+    <p>🔹 Core Automation Training and Java Development.<br/>
+    🔹 Assisted in building backend services and writing unit tests.</p>
+  </blockquote>
 </div>
 
 <div id="skills">
@@ -117,18 +135,14 @@
   <h2>📈 GitHub Metrics & Activity</h2>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh2003s&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=58A6FF" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh2003s&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="GitHub Streak" width="49%" />
   </div>
   
   <br/>
   <h3 align="center">🐍 Contribution Graph Animation</h3>
   <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravindh2003s/aravindh2003s/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravindh2003s/aravindh2003s/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aravindh2003s/aravindh2003s/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aravindh2003s/aravindh2003s/output/github-contribution-grid-snake.svg" width="100%">
   </div>
 </div>
 
