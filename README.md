@@ -33,7 +33,7 @@
         <p><strong>💡 Philosophy:</strong> Every successful release begins with reliable testing, comprehensive failure analysis, and continuous improvement.</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh2003s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Languages" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindh2003s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Languages" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -150,7 +150,7 @@
   <h2>📈 GitHub Metrics & Activity</h2>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=58A6FF" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aravindh2003s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=58A6FF" alt="GitHub Stats" width="49%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh2003s&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="GitHub Streak" width="49%" />
   </div>
   
