@@ -1,211 +1,149 @@
-<!-- =============================== -->
+<!-- Banner -->
+<div align="center">
+  <img src="assets/banner.svg" alt="Aravindhan S Banner" width="100%">
+</div>
 
-<!--        GitHub Profile README    -->
-
-<!-- =============================== -->
-
+<!-- Hero Section -->
 <h1 align="center">Aravindhan S</h1>
-
 <p align="center">
-Automation Test Engineer • Java Developer • Quality Engineering
+  <strong>Automation Test Engineer | Java Developer | Quality Engineering</strong>
 </p>
-
 <p align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Automation+Test+Engineer;Java+Developer;Building+Reliable+Test+Automation;Learning+Something+New+Every+Day" />
-</a>
-
+  Building scalable automation solutions with Java, Selenium, and Tosca.
 </p>
 
+<!-- Navigation -->
 <p align="center">
-
-<a href="https://github.com/aravindh2003s">
-<img src="https://img.shields.io/github/followers/aravindh2003s?style=for-the-badge">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=aravindh2003s&style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/aravindh2003s?style=for-the-badge">
-
+  <a href="#about">About</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#technology-stack">Skills</a> •
+  <a href="#learning-timeline">Experience</a> •
+  <a href="#github-dashboard">GitHub</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-# About
+<h2 id="about">📝 About</h2>
+<p>Automation Test Engineer with a strong interest in software quality, automation frameworks, and Java application development.</p>
+<p>I enjoy creating maintainable automation solutions, learning modern testing practices, and building projects that solve real-world problems.</p>
 
-I am an Automation Test Engineer passionate about building maintainable automation frameworks, writing clean Java code, and improving software quality through automation.
+<h2 id="quick-information">⚡ Quick Information</h2>
 
-My GitHub is where I document my learning, build practical projects, and experiment with new technologies in Java and Quality Engineering.
+| | |
+| :--- | :--- |
+| **Current Role** | Automation Test Engineer |
+| **Company** | Larsen & Toubro |
+| **Primary Language** | Java |
+| **Specialization** | Automation Testing |
+| **Current Learning** | Selenium, Tosca, API Testing |
+| **Open Source** | Learning & Contributing |
 
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-
+<h2 id="technology-stack">🛠️ Technology Stack</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,selenium,git,github,html,css,js,mysql,postman,maven,jenkins,vscode,idea" />
+  </a>
 </p>
 
-### Automation
+<h2 id="current-focus">🎯 Current Focus</h2>
 
-<p>
+- **Building**: Enterprise Selenium Framework
+- **Learning**: Advanced Tosca
+- **Improving**: API Automation
+- **Exploring**: CI/CD Integration
+- **Practicing**: Java Collections
+- **Next Goal**: Playwright
 
-<img src="https://skillicons.dev/icons?i=selenium,maven,git,github"/>
+<h2 id="featured-projects">🚀 Featured Projects</h2>
 
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🏢 Employee Management System</h3>
+      <p>Desktop Application</p>
+      <p><code>Java</code> <code>MySQL</code> <code>CRUD</code> <code>JDBC</code></p>
+    </td>
+    <td width="50%">
+      <h3>🧪 Selenium Automation Framework</h3>
+      <p>Page Object Model</p>
+      <p><code>TestNG</code> <code>Maven</code> <code>Extent Reports</code> <code>Cross Browser</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Java Practice Repository</h3>
+      <p>200+ Java Programs</p>
+      <p><code>Collections</code> <code>OOP</code> <code>Exception Handling</code></p>
+    </td>
+    <td width="50%">
+      <h3>🌐 API Testing</h3>
+      <p>REST API</p>
+      <p><code>Postman</code> <code>Automation</code> <code>Collections</code></p>
+    </td>
+  </tr>
+</table>
 
-**Also Working With**
+<h2 id="github-dashboard">📊 GitHub Dashboard</h2>
 
-* Tricentis Tosca
-* TestNG
-* JUnit
-* Postman
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh2003s&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
----
-
-# Current Focus
-
-* Selenium WebDriver
-* Tricentis Tosca
-* Java Collections
-* Automation Framework Design
-* REST API Testing
-* Jenkins
-* GitHub Actions
-* CI/CD
-
----
-
-# Featured Projects
-
-## Employee Management System
-
-A desktop application developed using Java and MySQL.
-
-**Features**
-
-* Employee Management
-* Department Management
-* CRUD Operations
-* Database Integration
-* Search and Filter
-* Clean User Interface
-
----
-
-## Selenium Automation Framework
-
-A reusable automation framework built using industry-standard practices.
-
-**Includes**
-
-* Page Object Model
-* TestNG
-* Maven
-* Reporting
-* Screenshot Utility
-* Data-Driven Testing
-
----
-
-## Java Programming Repository
-
-Practice repository containing
-
-* Core Java
-* OOP
-* Collections
-* Exception Handling
-* File Handling
-* Coding Challenges
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aravindh2003s&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh2003s&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aravindh2003s&theme=transparent"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh2003s&theme=github-compact"/>
-
-</p>
-
----
-
-# Development Workflow
+<h2 id="learning-timeline">🛣️ Learning Timeline</h2>
 
 ```text
-Requirement
-     │
-     ▼
-Test Planning
-     │
-     ▼
-Automation Script Development
-     │
-     ▼
-Execution
-     │
-     ▼
-Bug Reporting
-     │
-     ▼
-Regression Testing
-     │
-     ▼
-Continuous Improvement
+2025: Internship
+  ↓
+2026: Automation Test Engineer
+  ↓
+Current: Java | Selenium | Tosca
+  ↓
+Next: Playwright | Docker | AWS
+  ↓
+Future: SDET
 ```
 
----
+<h2 id="certifications">📜 Certifications</h2>
+<ul>
+  <li>Larsen & Toubro Internship</li>
+  <li>Automation Training</li>
+  <!-- <li>Java Certifications (Coming Soon)</li> -->
+  <!-- <li>Tosca Certifications (Coming Soon)</li> -->
+</ul>
 
-# 2026 Goals
+<h2 id="repository-categories">📂 Repository Categories</h2>
+<p>
+  <a href="#"><kbd>Automation</kbd></a>
+  <a href="#"><kbd>Java</kbd></a>
+  <a href="#"><kbd>API Testing</kbd></a>
+  <a href="#"><kbd>SQL</kbd></a>
+  <a href="#"><kbd>Projects</kbd></a>
+  <a href="#"><kbd>Learning</kbd></a>
+</p>
 
-* Build enterprise-level Selenium frameworks
-* Master Tricentis Tosca
-* Learn API Automation
-* Explore Playwright
-* Learn Docker basics
-* Implement Jenkins pipelines
-* Contribute to open source
-* Publish technical articles
+<h2 id="fun-section">☕ Fun Section</h2>
 
----
+```text
+Coffee Consumed             ██████████
+Debugging                   ████████████████
+Learning                    ██████████████████████
+Writing Automation Scripts  ██████████████████
+```
 
-# Connect
+<h2 id="quote">💡 Quote</h2>
+<blockquote>
+  "Every successful release begins with reliable testing and continuous improvement."
+</blockquote>
 
-GitHub
-
-https://github.com/aravindh2003s
-
-LinkedIn
-
-https://www.linkedin.com/in/aravindhan-s-37254b2a2/
-
----
+<h2 id="contact">📫 Contact</h2>
+<p>
+  <a href="https://github.com/aravindh2003s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/aravindh2003s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <p align="center">
-
-"Quality is built into software through thoughtful engineering and effective automation."
-
+  <i>Thanks for visiting my profile. Feel free to explore my repositories, connect with me on LinkedIn, or follow my automation journey.</i>
 </p>
