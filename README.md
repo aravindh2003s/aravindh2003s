@@ -27,7 +27,7 @@
   <table width="100%">
     <tr>
       <td width="60%">
-        <p>I am a <strong>QA Automation Engineer & Java Full Stack Developer</strong> currently working at Larsen & Toubro. I specialize in building robust enterprise applications and architecting scalable test automation frameworks that ensure software reliability.</p>
+        <p>I am a <strong>QA Automation Engineer & Java Full Stack Developer</strong> And Done a Internship at Larsen & Toubro. I specialize in building robust enterprise applications and architecting scalable test automation frameworks that ensure software reliability.</p>
         <p>My expertise bridges the gap between development and quality engineering—from designing reusable Page Object Models and data-driven BDD tests, to integrating CI/CD pipelines that cut regression time by up to 40%.</p>
         <p><strong>🌱 Currently Exploring:</strong> Model-based testing with Tricentis TOSCA, Playwright frameworks, and advanced CI/CD pipelines.</p>
         <p><strong>💡 Philosophy:</strong> Every successful release begins with reliable testing, comprehensive failure analysis, and continuous improvement.</p>
